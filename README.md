@@ -1,2 +1,2 @@
-# primeiro-desafio-git-e-github-dio
-Desafio 01 - DIO
+# Desafio DIO - Primeiro Projeto
+Criação de Repositório para o Projeto
